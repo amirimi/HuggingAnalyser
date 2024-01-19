@@ -5,13 +5,13 @@ HuggingFace text generation and text classification models and related spaces an
 ## Get started
 Local:
 ```
-git clone git@github.com:AMK9978/HuggingAnalyser.git
+git clone git@github.com:amirimi/HuggingAnalyser.git
 pip install -r requirements.txt
 python main.py
 ```
 Docker:
 ```
-git clone git@github.com:AMK9978/HuggingAnalyser.git
+git clone git@github.com:amirimi/HuggingAnalyser.git
 docker build hugging .
 docker run --name hugging -itd hugging
 ```
@@ -30,7 +30,7 @@ docker run --name hugging -itd hugging
 
 ## Authors
 
-- Amir Karimi [AMK9978](https://github.com/amk9978)
+- Amir Karimi [amirimi](https://github.com/amirimi)
 
 ## Built With
 
